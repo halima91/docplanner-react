@@ -1,0 +1,15 @@
+.introduction{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    padding:50px 30px;
+    margin:10px;
+}
+.squarelogo{
+
+    text-align: center;
+    
+}
+.title{
+    text-align: center;
+    color:#00b39b;
+}

@@ -1,0 +1,16 @@
+.card{
+display:grid;
+grid-template-columns: 1fr 1fr;
+/* padding:20px;
+margin:30px; */
+
+
+}
+.carditem{
+  
+    border-radius: 5px;
+    padding:20px;
+    margin:10px;
+    color:white;
+    
+}

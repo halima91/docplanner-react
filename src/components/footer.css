@@ -1,0 +1,14 @@
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;}
+
+p {
+   margin: 1.6em 0;}
+
+.main-footer{
+    border-top: 1px solid #eef2f2;
+    font-size: .75em;
+    color: #ababab;
+    text-align: center;
+    padding: 1em 0;}

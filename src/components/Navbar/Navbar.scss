@@ -1,0 +1,22 @@
+.navbar{
+    padding:1.5rem;
+    display:flex;
+    justify-content: space-around;
+
+}
+.nav-links{
+
+    display:flex;
+    text-align: center;
+    list-style-type:none;
+}
+.nav-link{
+    text-decoration: none;
+    color:black;
+   padding:5px;
+   &:hover{
+       color:#00b39b;
+   }}
+.active{
+color:#00b39b;
+}

@@ -1,0 +1,26 @@
+.container{
+    display:flex;
+    width:50%;
+    margin-right:60px;
+    flex-wrap: wrap;
+}
+.itemcontainer{
+   width:45%;
+    /* border:1px solid black; */
+    border-radius: 10px;
+    background-color: white;
+    padding:15px;
+    margin:10px;
+    text-align: center;
+}
+.titlecard{
+    color:#00b39b;
+    padding: 5px;
+}
+.paracard{
+    padding: 5px;
+}
+.containerglobal{
+display:flex;
+background-image: url(../bg.png)
+}
